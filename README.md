@@ -1,6 +1,6 @@
 # Pre-Work: Todo List
 
-Author: Xiaohan Zhu | xiaohan.zhu@outlook.com
+Author: 朱筱涵 | xiaohan.zhu@outlook.com
 
 ### 项目简介
 此项目主要使用**Django + Django Rest Framework + Bootstrap(flay-ui) + React**完成了一个待办事项网站。
