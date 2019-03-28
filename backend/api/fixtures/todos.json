@@ -1,0 +1,42 @@
+[
+  {
+    "model": "api.todo",
+    "pk": 1,
+    "fields": {
+      "title": "1st",
+      "content": "This is the 1st todo.",
+      "finished": false,
+      "priority": 1
+    }
+  },
+  {
+    "model": "api.todo",
+    "pk": 2,
+    "fields": {
+      "title": "2nd",
+      "content": "This is the 2nd todo.",
+      "finished": false,
+      "priority": 0
+    }
+  },
+  {
+    "model": "api.todo",
+    "pk": 3,
+    "fields": {
+      "title": "3rd",
+      "content": "This is the 3rd todo.",
+      "finished": false,
+      "priority": 2
+    }
+  },
+  {
+    "model": "api.todo",
+    "pk": 4,
+    "fields": {
+      "title": "4th",
+      "content": "This is the 4th todo.",
+      "finished": true,
+      "priority": 2
+    }
+  }
+]
