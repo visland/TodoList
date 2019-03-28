@@ -3,7 +3,7 @@
 Author: 朱筱涵 | xiaohan.zhu@outlook.com
 
 ### 项目简介
-此项目主要使用**Django + Django Rest Framework + Bootstrap(flay-ui) + React**完成了一个待办事项网站。
+此项目主要使用**Django + Django Rest Framework + Bootstrap(flat-ui) + React**完成了一个待办事项网站。
 
 ### 功能概览
 此项目实现的功能有：
